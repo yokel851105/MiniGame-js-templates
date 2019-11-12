@@ -1,0 +1,18 @@
+{
+  "certificatePath": "/Users/Innotech/Desktop/MZGame/MiniGame-templates/certificate.pem",
+  "deviceOrientation": "portrait",
+  "disabledMode": "",
+  "icon": "/Users/Innotech/Desktop/MZGame/MiniGame-templates/assets/resources/logo.png",
+  "logLevel": "log",
+  "minPlatformVersion": "1031",
+  "name": "喵喵奇妙物语",
+  "npmPath": "",
+  "package": "com.mmqmwy.mzgame.nearme.gamecenter",
+  "privatePath": "/Users/Innotech/Desktop/MZGame/MiniGame-templates/private.pem",
+  "showNpmPath": false,
+  "tinyPackageMode": false,
+  "tinyPackageServer": "https://cdn.hzweimo.com/0mxdwy_oppo/debugres",
+  "useDebugKey": false,
+  "versionCode": "1",
+  "versionName": "1.0.0"
+}
